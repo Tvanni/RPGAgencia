@@ -1,0 +1,7 @@
+- Matrizes, a raça ancestral nascida do **Crisol**
+- O Crisol era fonte de energia de uma próspera civilização dos Matrizes
+    - Seu poder era imbuído em artefatos e objetos para adquirirem habilidades mágicas.
+- Kadan ficava onde hoje é a região de Enbaohr, e o Crisol ficava onde agora é a Plataforma de Mármore no grande lago.
+    - As ruínas dessa grande sociedade estão espalhadas por todo o mundo, sobretudo nas redondezas de Enbaohr.
+- Ezeus e Ulnas eram Matrizes que juntos haviam descoberto como manipular a energia do Crisol, permitindo então separa-la em múltiplas Fontes de Poder e formas diferentes.
+    - Por causa disso, Ezeus ganhou imenso respeito e renome entre a população e os líderes

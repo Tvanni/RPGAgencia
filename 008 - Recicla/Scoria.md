@@ -1,0 +1,1 @@
+Rochas e poeira residuais da criação do Crisol. Causa efeitos fortemente negativos a entidades derivadas do Crisol. Pode ser utilizada como arma, principalmente contra Marcados e Semi-Bestas

@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "b9388d566cde97ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dbd0666e8ed7c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a717e5f9572552e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Mecânicas/x020 - Condições.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33cde5aad30f7088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Mecânicas/x015 - Tipos de Dano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d63c0c3b79d0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92e18c38aa54ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc230b1bff9c11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c5ea316ea5fe36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habilidades por Nível - média.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba7b51aabbc99cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pasta de Templates/Habilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e9464d4f28beb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Mecânicas/x005 - Proficiência e Perícias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e478fe770c49d7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "229077b8a35afcf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d2077102c09af6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01cfb4fcb9529a6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d302dd5f964b74f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "050e331954e95aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52afb2085d4f464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3096f7f150bfcfdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e9b45f90dd7f54bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c3ef31fbf5c64a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11d3adbb621a4546",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8d2077102c09af6",
+  "lastOpenFiles": [
+    "RPG",
+    "001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
+    "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+    "001 - Árvores de Habilidade/203 - Arnaldo Pinto da Luz 🔆.md",
+    "001 - Árvores de Habilidade/202 - Chama 🔥.md",
+    "001 - Árvores de Habilidade/205 - Gelo e os krl.md",
+    "001 - Árvores de Habilidade/201 - Bruma Lívida.md",
+    "001 - Árvores de Habilidade/108 - Canos e Pedras.md",
+    "001 - Árvores de Habilidade/106 - John Furi.md",
+    "001 - Árvores de Habilidade/103 - O snipas.md",
+    "001 - Árvores de Habilidade/104 - O duelas.md",
+    "001 - Árvores de Habilidade/102 - O arremessas.md",
+    "001 - Árvores de Habilidade/101 - Lâmina da Tormenta.md",
+    "001 - Árvores de Habilidade/002 - Repositório de Truques.md",
+    "001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
+    "002 - Criação de Personagem/001 - Classes/PRONTO/03 - Marcado.md",
+    "002 - Criação de Personagem/004 - Origem/PRONTO/101 - Origem Padrão.md",
+    "002 - Criação de Personagem/004 - Origem/PRONTO/102 - Izerado.md",
+    "002 - Criação de Personagem/004 - Origem/PRONTO/103 - Corviano.md",
+    "001 - Árvores de Habilidade/107 - O Correntes Thresh Kratos Toji.md",
+    "002 - Criação de Personagem/001 - Classes/PRONTO/02 - Caçador.md",
+    "002 - Criação de Personagem/001 - Classes/PRONTO/05 - Místico.md",
+    "Pasta de Templates/Habilidade.md",
+    "Habilidades por Nível - média.md",
+    "001 - Mecânicas/x005 - Proficiência e Perícias.md",
+    "001 - Mecânicas/x015 - Tipos de Dano.md",
+    "Untitled",
+    "002 - Criação de Personagem/004 - Origem/UHH",
+    "002 - Criação de Personagem/004 - Origem/PRONTO",
+    "002 - Criação de Personagem/001 - Classes/PRONTO",
+    "008 - Recicla/Ataqye de ioirtybudade.png",
+    "008 - Recicla/cão abominável.png",
+    "008 - Recicla/Auxiliar.png",
+    "008 - Recicla/Coisas que reciclarei do Pathfinder 2e b00b6257095a4247aca796114710f34e.pdf",
+    "001 - Mecânicas/A FAZER",
+    "001 - Mecânicas/PRONTAS",
+    "008 - Recicla/Escapar.png",
+    "001 - Mecânicas/A FAZER",
+    "002 - Criação de Personagem/004 - Origem",
+    "Pasted image 20231124024925.png",
+    "001 - Mecânicas/001 - Classes/Subclasses"
+  ]
+}

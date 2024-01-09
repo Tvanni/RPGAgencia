@@ -1,0 +1,12 @@
+- Nome do Personagem
+- Jogador
+- Nível
+- Classe/Subclasse
+- Origem
+- Atributos
+- Ferocidade
+- Pontos de Vida
+- Faíscas
+- Classe de Armadura
+- Velocidade
+- Saves
