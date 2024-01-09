@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbd0666e8ed7c30",
+        "id": "2c9f0b7bbfc79467",
         "type": "tabs",
         "children": [
           {
-            "id": "5a717e5f9572552e",
+            "id": "cafbb08686486d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - Mecânicas/x020 - Condições.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33cde5aad30f7088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Mecânicas/x015 - Tipos de Dano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d63c0c3b79d0d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b92e18c38aa54ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc230b1bff9c11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c5ea316ea5fe36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Habilidades por Nível - média.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba7b51aabbc99cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pasta de Templates/Habilidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e9464d4f28beb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Mecânicas/x005 - Proficiência e Perícias.md",
-                "mode": "source",
+                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5
   },
   "right": {
     "id": "050e331954e95aa3",
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - Árvores de Habilidade/302 - Árvore do Caçador.md"
+                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md"
               }
             }
           }
@@ -231,48 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8d2077102c09af6",
+  "active": "cafbb08686486d62",
   "lastOpenFiles": [
+    "ORGANIZANDO/001 - Árvores de Habilidade/101 - Lâmina da Tormenta.md",
+    "Pasta de Templates/!Template Habilidade.md",
+    "Habilidades/!Template Habilidade 1.md",
+    "Habilidades/Ataque Fulminante.md",
+    "Habilidades/Entender o Inimigo.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
+    "Habilidades/Gafe Fatal.md",
+    "Habilidades/Entulhar.md",
+    "Habilidades/Proteção Aurea.md",
+    "Habilidades/Rugido de Shandora.md",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/01 - Lutador.md",
+    "Árvore de Habilidades.canvas",
+    "Habilidades",
+    "ORGANIZANDO/001 - Árvores de Habilidade/305 - Árvore do Místico.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/306 - Árvore do Coringa.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/303 - Árvore do Marcado.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/304 - Árvore do Feroz.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/201 - Bruma Lívida.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/108 - Canos e Pedras.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/202 - Chama 🔥.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/203 - Arnaldo Pinto da Luz 🔆.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/204 - Outra pedra 🗿.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/205 - Gelo e os krl.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/206 - Som e os krl.md",
+    "ORGANIZANDO/001 - Árvores de Habilidade/207 - Pesares.md",
+    "ORGANIZANDO",
     "RPG",
-    "001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
-    "001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
-    "001 - Árvores de Habilidade/203 - Arnaldo Pinto da Luz 🔆.md",
-    "001 - Árvores de Habilidade/202 - Chama 🔥.md",
-    "001 - Árvores de Habilidade/205 - Gelo e os krl.md",
-    "001 - Árvores de Habilidade/201 - Bruma Lívida.md",
-    "001 - Árvores de Habilidade/108 - Canos e Pedras.md",
-    "001 - Árvores de Habilidade/106 - John Furi.md",
-    "001 - Árvores de Habilidade/103 - O snipas.md",
-    "001 - Árvores de Habilidade/104 - O duelas.md",
-    "001 - Árvores de Habilidade/102 - O arremessas.md",
-    "001 - Árvores de Habilidade/101 - Lâmina da Tormenta.md",
-    "001 - Árvores de Habilidade/002 - Repositório de Truques.md",
-    "001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
-    "002 - Criação de Personagem/001 - Classes/PRONTO/03 - Marcado.md",
-    "002 - Criação de Personagem/004 - Origem/PRONTO/101 - Origem Padrão.md",
-    "002 - Criação de Personagem/004 - Origem/PRONTO/102 - Izerado.md",
-    "002 - Criação de Personagem/004 - Origem/PRONTO/103 - Corviano.md",
-    "001 - Árvores de Habilidade/107 - O Correntes Thresh Kratos Toji.md",
-    "002 - Criação de Personagem/001 - Classes/PRONTO/02 - Caçador.md",
-    "002 - Criação de Personagem/001 - Classes/PRONTO/05 - Místico.md",
-    "Pasta de Templates/Habilidade.md",
-    "Habilidades por Nível - média.md",
-    "001 - Mecânicas/x005 - Proficiência e Perícias.md",
-    "001 - Mecânicas/x015 - Tipos de Dano.md",
-    "Untitled",
-    "002 - Criação de Personagem/004 - Origem/UHH",
-    "002 - Criação de Personagem/004 - Origem/PRONTO",
-    "002 - Criação de Personagem/001 - Classes/PRONTO",
-    "008 - Recicla/Ataqye de ioirtybudade.png",
-    "008 - Recicla/cão abominável.png",
-    "008 - Recicla/Auxiliar.png",
-    "008 - Recicla/Coisas que reciclarei do Pathfinder 2e b00b6257095a4247aca796114710f34e.pdf",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/UHH",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO",
+    "ORGANIZANDO/008 - Recicla/Ataqye de ioirtybudade.png",
+    "ORGANIZANDO/008 - Recicla/cão abominável.png",
+    "ORGANIZANDO/008 - Recicla/Auxiliar.png",
+    "ORGANIZANDO/008 - Recicla/Coisas que reciclarei do Pathfinder 2e b00b6257095a4247aca796114710f34e.pdf",
     "001 - Mecânicas/A FAZER",
     "001 - Mecânicas/PRONTAS",
     "008 - Recicla/Escapar.png",
     "001 - Mecânicas/A FAZER",
-    "002 - Criação de Personagem/004 - Origem",
-    "Pasted image 20231124024925.png",
-    "001 - Mecânicas/001 - Classes/Subclasses"
+    "Pasted image 20231124024925.png"
   ]
 }

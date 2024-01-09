@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6e517e20b1cf8949","type":"text","text":"[[01 - Lutador]]","x":-640,"y":-80,"width":250,"height":60},
+		{"id":"bb26f75439aa7a4a","type":"text","text":"[[02 - Caçador]]","x":-390,"y":-80,"width":250,"height":60},
+		{"id":"fc7fa4d306582555","x":-140,"y":-80,"width":250,"height":60,"type":"text","text":"[[03 - Marcado]]"},
+		{"id":"2c85c175e9d76179","x":110,"y":-80,"width":250,"height":60,"type":"text","text":"[[04 - Feroz]]"},
+		{"id":"26ca289f2c0218e8","x":360,"y":-80,"width":250,"height":60,"type":"text","text":"[[05 - Místico]]"},
+		{"id":"dd93f38cee231004","x":610,"y":-80,"width":250,"height":60,"type":"text","text":"[[06 - Coringa]]"}
+	],
+	"edges":[]
+}

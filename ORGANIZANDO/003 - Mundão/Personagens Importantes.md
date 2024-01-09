@@ -1,8 +1,8 @@
-Davin Nagito: Líder dos Discípulos do Crisol, mente por trás da construção da Plataforma de Mármore, Antagonista Principal por trás dos eventos da Campanha e que quer usar do poder latente de [[008 - Recicla/Mairu]] para clamar o Crisol como seu. Único que se Marcou com (Marca da Luz), tem grandes ambições. Também é literalmente eu.
+Davin Nagito: Líder dos Discípulos do Crisol, mente por trás da construção da Plataforma de Mármore, Antagonista Principal por trás dos eventos da Campanha e que quer usar do poder latente de [[Mairu]] para clamar o Crisol como seu. Único que se Marcou com (Marca da Luz), tem grandes ambições. Também é literalmente eu.
 
 Deseja criar uma (organização dos caras da luz) formada à sua imagem.
 
-[[008 - Recicla/Mairu]]: Jovem Matriz. Marcada que é perseguida pelos Discípulos do Crisol e pela Coalisão dos Dogmas, agora acompanha Pochar depois de fugir de Enkya. Personagem da Carol.
+[[Mairu]]: Jovem Matriz. Marcada que é perseguida pelos Discípulos do Crisol e pela Coalisão dos Dogmas, agora acompanha Pochar depois de fugir de Enkya. Personagem da Carol.
 
 Korme: Corvídeo bestializado perturbador, repleto de charme e desprovido de alma. Tenta passar como um guia/comerciante/aventureiro/apresentador de show, mas seu estado psicológico fragmentado o impede de fazer quaisquer sutilezas intencionalmente, sempre citando e fazendo referências à coisas que sequer existem, perguntando por pessoas que não estão ali, e sendo completamente obcecado pelas fagulhas da alma humana.
 
