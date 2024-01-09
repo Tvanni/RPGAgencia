@@ -3,4 +3,3 @@
 Corpo
 
 Disponível para: [[01 - Lutador]], [[02 - Caçador]]
-#Truque 

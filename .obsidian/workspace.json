@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9f0b7bbfc79467",
+        "id": "8de8aa5ca93446fa",
         "type": "tabs",
         "children": [
           {
-            "id": "cafbb08686486d62",
+            "id": "ba7b51aabbc99cff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
-                "mode": "preview",
-                "source": false
+                "file": "Árvore de Habilidades.canvas",
+                "viewState": {
+                  "x": 110,
+                  "y": -50,
+                  "zoom": -0.3936295602415513
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Truque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "right": {
     "id": "050e331954e95aa3",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
+                "file": "Árvore de Habilidades.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
+                "file": "Árvore de Habilidades.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md"
+                "file": "Árvore de Habilidades.canvas"
               }
             }
           }
@@ -146,49 +149,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cafbb08686486d62",
+  "active": "ba7b51aabbc99cff",
   "lastOpenFiles": [
-    "ORGANIZANDO/001 - Árvores de Habilidade/101 - Lâmina da Tormenta.md",
-    "Pasta de Templates/!Template Habilidade.md",
-    "Habilidades/!Template Habilidade 1.md",
-    "Habilidades/Ataque Fulminante.md",
-    "Habilidades/Entender o Inimigo.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/002 - Repositório de Truques.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/001 - Repositório de Habilidades.md",
-    "Habilidades/Gafe Fatal.md",
-    "Habilidades/Entulhar.md",
-    "Habilidades/Proteção Aurea.md",
+    "Habilidades/Táticas Retroativas.md",
+    "Habilidades/Ventriloquismo.md",
+    "Habilidades/Tropeçar.md",
+    "Habilidades/Sentir o Tempo.md",
+    "Habilidades/Sacrifício.md",
     "Habilidades/Rugido de Shandora.md",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/01 - Lutador.md",
+    "Habilidades/Romper Amarras.md",
+    "Habilidades/Respirar Fundo.md",
+    "Habilidades/Replicar Marca.md",
+    "Habilidades/Reparo.md",
+    "Habilidades/Refresco.md",
+    "Habilidades/Proteção Aurea.md",
+    "Habilidades/Paranormalidade.md",
+    "Habilidades/Mordida Amaldiçoada.md",
+    "Habilidades/Mensagem.md",
+    "Habilidades/Lâmina do Abalo.md",
+    "Habilidades/Iscar.md",
+    "Habilidades/Irromper.md",
+    "Habilidades/Instruir.md",
+    "Habilidades/Golpe Exato.md",
+    "Habilidades/Golpe de Pegada.md",
+    "Habilidades/Gastação Obscena.md",
+    "Habilidades/Garra Lancinante.md",
+    "Habilidades/Gafe Fatal.md",
+    "Habilidades/Estimar.md",
+    "Habilidades/Estabilizar.md",
     "Árvore de Habilidades.canvas",
-    "Habilidades",
-    "ORGANIZANDO/001 - Árvores de Habilidade/305 - Árvore do Místico.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/306 - Árvore do Coringa.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/303 - Árvore do Marcado.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/301 - Árvore do Lutador.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/304 - Árvore do Feroz.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/302 - Árvore do Caçador.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/201 - Bruma Lívida.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/108 - Canos e Pedras.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/202 - Chama 🔥.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/203 - Arnaldo Pinto da Luz 🔆.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/204 - Outra pedra 🗿.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/205 - Gelo e os krl.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/206 - Som e os krl.md",
-    "ORGANIZANDO/001 - Árvores de Habilidade/207 - Pesares.md",
-    "ORGANIZANDO",
-    "RPG",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/UHH",
     "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/UHH",
+    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses/Marcado",
+    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses/Coringa",
     "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO",
-    "ORGANIZANDO/008 - Recicla/Ataqye de ioirtybudade.png",
     "ORGANIZANDO/008 - Recicla/cão abominável.png",
-    "ORGANIZANDO/008 - Recicla/Auxiliar.png",
     "ORGANIZANDO/008 - Recicla/Coisas que reciclarei do Pathfinder 2e b00b6257095a4247aca796114710f34e.pdf",
-    "001 - Mecânicas/A FAZER",
-    "001 - Mecânicas/PRONTAS",
+    "ORGANIZANDO/008 - Recicla/Auxiliar.png",
+    "ORGANIZANDO/008 - Recicla/Ataqye de ioirtybudade.png",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem",
+    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes",
+    "ORGANIZANDO/100 - Buraco dos Backlink",
+    "008 - Recicla/Ataqye de ioirtybudade.png",
+    "008 - Recicla/cão abominável.png",
+    "008 - Recicla/Auxiliar.png",
     "008 - Recicla/Escapar.png",
-    "001 - Mecânicas/A FAZER",
     "Pasted image 20231124024925.png"
   ]
 }

@@ -2,4 +2,4 @@
 > [!quote] Pelo visto ainda não perdi a manha
 
 Disponível para: [[01 - Lutador]], [[02 - Caçador]]
-#Truque  Uma vez por combate, se um ataque te errar, acerta um crit que aplica feridas dolorosas.
+ Uma vez por combate, se um ataque te errar, acerta um crit que aplica feridas dolorosas.

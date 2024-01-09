@@ -2,5 +2,4 @@
 
 > [!quote] BAM! Aniquilada, com um único golpe.
 
-Disponível para: [[01 - Lutador]], [[02 - Caçador]]
-#Truque
+Disponível para: 
