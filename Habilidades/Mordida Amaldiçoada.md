@@ -4,4 +4,4 @@
 - X nessa Habilidade é igual a seu Modificador de Ferocidade.
 
 Disponível para:  [[01 - Lutador]], [[02 - Caçador]], [[03 - Marcado]], [[04 - Feroz]], [[05 - Místico]], [[06 - Coringa]]
-#Truque #Lvl1
+#Truque #Lvl1 #Ataque 

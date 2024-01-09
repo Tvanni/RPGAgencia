@@ -4,4 +4,4 @@
   - O dano aumenta para 2d6 no Nível 2, e 3d6 no Nível 5.
 
 Disponível para: 
-#Truque #Lvl1
+#Truque #Lvl1 #Ataque 

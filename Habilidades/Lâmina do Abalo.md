@@ -5,4 +5,4 @@
 
 
 Disponível para: [[05 - Místico]]
-#Truque #Lvl1
+#Truque #Lvl1 #Ataque 
