@@ -8,12 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba7b51aabbc99cff",
+            "id": "dbb16df84a64fb30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habilidades/Dar as Cartas.md",
+                "file": "Habilidades/Nível 1/Armadilha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5151414dbccb245e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORGANIZANDO/Habilidades por Nível - média.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2ea01e78a0e7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORGANIZANDO/001 - Mecânicas/x015 - Tipos de Dano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4574479fdc5ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORGANIZANDO/001 - Mecânicas/x005 - Proficiência e Perícias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habilidades/Dar as Cartas.md",
+                "file": "Habilidades/Nível 1/Armadilha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habilidades/Dar as Cartas.md",
+                "file": "Habilidades/Nível 1/Armadilha.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habilidades/Dar as Cartas.md"
+                "file": "Habilidades/Nível 1/Armadilha.md"
               }
             }
           }
@@ -146,35 +182,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba7b51aabbc99cff",
+  "active": "dbb16df84a64fb30",
   "lastOpenFiles": [
-    "Habilidades/Defender contra Armas.md",
-    "Habilidades/Energizar Ataque.md",
-    "Habilidades/Enganchar.md",
-    "Habilidades/Entender o Inimigo.md",
-    "Habilidades/Dar as Cartas.md",
-    "Habilidades/Correr.md",
-    "Habilidades/Conhecer o Eleitorado.md",
-    "Habilidades/Comer Fogo.md",
-    "Habilidades/Canalizar Arma.md",
-    "Habilidades/Golpe Exato.md",
-    "Habilidades/Golpe de Pegada.md",
-    "Habilidades/Gastação Obscena.md",
-    "Habilidades/Replicar Marca.md",
-    "Habilidades/Garra Lancinante.md",
-    "Habilidades/Reparo.md",
-    "Habilidades/Refresco.md",
-    "Habilidades/Proteção Aurea.md",
-    "Habilidades/Paranormalidade.md",
-    "Habilidades/Mordida Amaldiçoada.md",
-    "Habilidades/Mensagem.md",
-    "Habilidades/Lâmina do Abalo.md",
-    "Habilidades/Iscar.md",
-    "Habilidades/Arremessar Dardos.md",
-    "Habilidades/Atentar.md",
-    "Habilidades/Ataque Fulminante.md",
+    "Habilidades/Nível 1/Retaliação Feroz.md",
+    "Habilidades/Nível 1/Runa de Alarme.md",
+    "Habilidades/Nível 1/Ataque Fulminante.md",
+    "Habilidades/Nível 1/Armadilha.md",
+    "Habilidades/Nível 1/Amigo da Floresta.md",
+    "Habilidades/Nível 1/Adulterar as Chances.md",
+    "Habilidades/Nível 1/Absorver Energia.md",
+    "Habilidades/Nível 1/Bomba de Fumaça.md",
+    "Habilidades/Nível 1/Come Poeira.md",
+    "Habilidades/Nível 1/Bis.md",
+    "Habilidades/Nível 1/Graxa.md",
+    "Habilidades/Truques/Arremessar Dardos.md",
+    "Habilidades/Nível 1/Causar Medo.md",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO/102 - Izerado.md",
+    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO/103 - Corviano.md",
+    "ORGANIZANDO/001 - Mecânicas/x005 - Proficiência e Perícias.md",
+    "Habilidades/Truques/Táticas Retroativas.md",
+    "Habilidades/Truques/Energizar Ataque.md",
+    "ORGANIZANDO/001 - Mecânicas/x015 - Tipos de Dano.md",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/01 - Lutador.md",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/Estilo de Luta.md",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/02 - Caçador.md",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/05 - Místico.md",
+    "Pasta de Templates/!Template Habilidade.md",
+    "Habilidades/Nível 1/DESVIAR.md",
+    "Habilidades/Nível 1/Esconder Item.md",
     "Árvore de Habilidades.canvas",
-    "Habilidades/Táticas Retroativas.md",
+    "Habilidades/Backlog",
+    "Habilidades/Nível 1",
+    "Habilidades/Truques",
     "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO",
     "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/UHH",
     "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses/Marcado",
@@ -185,9 +224,6 @@
     "ORGANIZANDO/008 - Recicla/Auxiliar.png",
     "ORGANIZANDO/008 - Recicla/Ataqye de ioirtybudade.png",
     "ORGANIZANDO/002 - Criação de Personagem/004 - Origem",
-    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes",
-    "ORGANIZANDO/100 - Buraco dos Backlink",
     "008 - Recicla/Ataqye de ioirtybudade.png",
     "008 - Recicla/cão abominável.png",
     "008 - Recicla/Auxiliar.png",

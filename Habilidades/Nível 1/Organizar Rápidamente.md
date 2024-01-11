@@ -1,4 +1,4 @@
-## (X Ações) (Custo X) (X Pontos) (Alcance: X unidades) (Duração: X turnos)
+## (X Ações) (Custo 0) (X Pontos) (Alcance: X unidades)
 
 > [!quote] Quote foda
 

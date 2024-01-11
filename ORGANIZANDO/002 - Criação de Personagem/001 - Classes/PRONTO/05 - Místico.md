@@ -1,10 +1,8 @@
 Pontos de Vida: 6 + bônus de RES, e 4 + 2x seu bônus de RES por nível. 
-(0 RES lvl 6: 54)
-Faíscas: 10, e +5 por nível.
-(0 MTE lvl 6: 40)
+Faíscas: 10, e +6 por nível.
 Dado de Recomposição: D6
 Espaços de Habilidade: 5
-Pontos de Habilidade: 15
+Pontos de Treino: 15
 Espaços de Truque: 3
 Salvaguardas com Proficiência: PDR e MTE
 Perícias com Proficiência: 2 dentre [Acrobacia, Detecção de Poder, História, Medicina, Misticismo, Natureza, Percepção, e Religião].
@@ -12,8 +10,6 @@ Perícias com Proficiência: 2 dentre [Acrobacia, Detecção de Poder, História
 Nível 1:
 
 **Armamento Místico:** Uma [Arma ou Item não Consumível] seu é infundido com o poder de uma [Fonte de Poder] de sua escolha, e será utilizado para executar suas [Habilidades] que provém dela. Você tem acesso à [Árvore de Habilidades] da [Fonte de Poder] escolhida. Seu Armamento Místico pode ser redefinido ao [Repousar].
-
-**Treinamento Físico:** Você tem acesso a uma [Árvore de Habilidades Marcial] de sua escolha.
 
 **Momento de Êxito 1:** Você pode usar sua [Ação Livre] como uma das [Ações] para executar uma [Habilidade]. Você pode usar esse recurso 1 vez por combate.
 
@@ -32,8 +28,6 @@ Nível 2:
 +2 Pontos em Qualquer Atributo/1 Ponto em 2 Atributos
 
 Nível 3:
-
-**Estilo de Luta:** Você pode escolher 1 [[Estilo de Luta]] para se especializar.
 
 **Energia Reservada:** Como duas [Ações], você pode recuperar todas as suas [Faíscas]. Esse recurso pode ser usado 1 vez, e é recuperado ao [Repousar].
 

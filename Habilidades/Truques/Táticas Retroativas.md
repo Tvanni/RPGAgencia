@@ -6,4 +6,4 @@
     - Salvaguardas para evitar ou resistir os efeitos da habilidade são feitas com 1 Nível de Desvantagem adicional.
 
 Disponível para: [[02 - Caçador]], [[03 - Marcado]], [[05 - Místico]], [[06 - Coringa]]
-#Truque
+#Truque #Armadilha #Coringa #Marcado #Místico #Caçador

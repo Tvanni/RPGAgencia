@@ -21,7 +21,9 @@
   - Flamejante: Causado por chamas e fortes fontes de calor.
   - Gélido: Causado por temperaturas extremamente baixas.
   - Elétrico: Causado por choques e descargas elétricas.
-  - Tóxico: Causado por venenos e toxinas.
   - Corrosivo: Causado por agentes que dissolvem materiais físicos.
+
+- **ESPECIAL:**
+  - Tóxico: Causado por venenos e toxinas.  
   - Ancestral: Causado por pura energia mágica.
   - Psíquico: Causado por perigos que atacam a mente.

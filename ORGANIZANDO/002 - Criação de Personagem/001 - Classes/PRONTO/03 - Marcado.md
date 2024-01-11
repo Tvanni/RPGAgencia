@@ -1,10 +1,8 @@
 Pontos de Vida: 8 + bônus de RES, e 10 + 2x seu bônus de RES por nível.
-(0 RES lvl 6: 68)
-Faíscas: 6, e +3 por nível.
-(0 MTE lvl 6: 24)
+Faíscas: 6, e +4 por nível.
 Dado de Recomposição: D6
 Espaços de Habilidade: 3
-Pontos de Habilidade: 10
+Pontos de Treino: 10
 Espaços de Truque: 3
 Salvaguardas com Proficiência: PDR e RES
 Perícias com Proficiência: 2 dentre [Detecção de Poder, Furtividade, História, Intimidação, Lidar com Animais, Misticismo, Religião, e Sobrevivência].

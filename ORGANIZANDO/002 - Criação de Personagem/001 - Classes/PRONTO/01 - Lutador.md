@@ -1,10 +1,8 @@
 Pontos de Vida: 10 + seu bônus de RES, e 12 + 2x seu bônus de RES todo nível.
-(0 RES lvl 6: 82)
-Faíscas: 8, e +4 por nível. 
-(0 MTE lvl 6: 32)
+Faíscas: 6, e +4 por nível. 
 Dado de Recomposição: D6
 Espaços de Habilidade: 3
-Pontos de Habilidade: 10
+Pontos de Treino: 10
 Espaços de Truque: 3
 Salvaguardas com Proficiência: FOR e PDR
 Perícias com Proficiência: 2 dentre [Atletismo, Aprendizado, Acrobacia, Intimidação, Intuição, Lidar com Animais, Natureza, Percepção, e Sobrevivência].
@@ -12,10 +10,6 @@ Perícias com Proficiência: 2 dentre [Atletismo, Aprendizado, Acrobacia, Intimi
 Nível 1: 
 
 **Surto de Ação:** Uma vez por [Descanso], após o seu turno, você pode tomar [outro turno].
-
-**Poder na Prática:** Você tem acesso a uma [Árvore de Habilidades Marcial] de sua escolha.
-
-**Estilo de Luta:** Você pode escolher 1 [[Estilo de Luta]] para se especializar.
 
 **Habilidoso:** Você tem acesso à [Árvore de Habilidades do Lutador]
 

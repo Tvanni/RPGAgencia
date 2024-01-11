@@ -1,10 +1,8 @@
 Pontos de Vida: 8 + bônus de RES, e 10 + 2x seu bônus de RES por nível.
-(0 RES lvl 6: 68)
-Faíscas: 6, e +3 por nível. 
-(0 MTE lvl 6: 24)
+Faíscas: 6, e +4 por nível. 
 Dado de Recomposição: D8
 Espaços de Habilidade: 3
-Pontos de Habilidade: 10
+Pontos de Treino: 10
 Espaços de Truque: 3
 Salvaguardas com Proficiência: DEX e MTE
 Perícias com Proficiência: 3 dentre [Acrobacia, Aprendizado, Atletismo, Furtividade, Intimidação, Intuição, Investigação, Percepção, e Sobrevivência].
@@ -27,8 +25,6 @@ Nível 2:
 **Ataque Visceral:** Causar dano com um [Ataque] feito com [Vantagem] contra uma criatura causa uma [Ferida Grave], que remove uma das [Ações] disponíveis para a criatura no próximo turno dela.
 
 **Acerto Crítico 1:** Se o resultado do rolamento de um [Ataque] for um 20 sem a aplicação de modificadores, ele é um sucesso, causa dano igual ao dobro do seu dano máximo sem modificadores, e então aplica os modificadores que seriam aplicados ao dano do ataque.
-
-**Estilo de Luta:** Você pode escolher 1 [[Estilo de Luta]] para se especializar.
 
 +1 Espaço de Habilidade
 +10 Pontos de Habilidade
