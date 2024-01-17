@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habilidades/Nível 1/Armadilha.md",
+                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZANDO/Habilidades por Nível - média.md",
+                "file": "!Útil/Habilidades/Habilidades por Nível - média.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZANDO/001 - Mecânicas/x015 - Tipos de Dano.md",
+                "file": "!Útil/Mecânicas/x015 - Tipos de Dano.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZANDO/001 - Mecânicas/x005 - Proficiência e Perícias.md",
+                "file": "!Útil/Mecânicas/x005 - Proficiência e Perícias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f7ddfde5f70bb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Útil/Mecânicas/x020 - Condições.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fedf2f6f6b1e55e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pasta de Templates/!Template Habilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Habilidades/Nível 1/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habilidades/Nível 1/Armadilha.md",
+                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habilidades/Nível 1/Armadilha.md",
+                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habilidades/Nível 1/Armadilha.md"
+                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md"
               }
             }
           }
@@ -184,46 +208,46 @@
   },
   "active": "dbb16df84a64fb30",
   "lastOpenFiles": [
-    "Habilidades/Nível 1/Retaliação Feroz.md",
-    "Habilidades/Nível 1/Runa de Alarme.md",
-    "Habilidades/Nível 1/Ataque Fulminante.md",
-    "Habilidades/Nível 1/Armadilha.md",
-    "Habilidades/Nível 1/Amigo da Floresta.md",
-    "Habilidades/Nível 1/Adulterar as Chances.md",
-    "Habilidades/Nível 1/Absorver Energia.md",
-    "Habilidades/Nível 1/Bomba de Fumaça.md",
-    "Habilidades/Nível 1/Come Poeira.md",
-    "Habilidades/Nível 1/Bis.md",
-    "Habilidades/Nível 1/Graxa.md",
-    "Habilidades/Truques/Arremessar Dardos.md",
-    "Habilidades/Nível 1/Causar Medo.md",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO/102 - Izerado.md",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO/103 - Corviano.md",
-    "ORGANIZANDO/001 - Mecânicas/x005 - Proficiência e Perícias.md",
-    "Habilidades/Truques/Táticas Retroativas.md",
-    "Habilidades/Truques/Energizar Ataque.md",
-    "ORGANIZANDO/001 - Mecânicas/x015 - Tipos de Dano.md",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/01 - Lutador.md",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/Estilo de Luta.md",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/02 - Caçador.md",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/05 - Místico.md",
-    "Pasta de Templates/!Template Habilidade.md",
-    "Habilidades/Nível 1/DESVIAR.md",
-    "Habilidades/Nível 1/Esconder Item.md",
-    "Árvore de Habilidades.canvas",
-    "Habilidades/Backlog",
-    "Habilidades/Nível 1",
-    "Habilidades/Truques",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/PRONTO",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem/UHH",
-    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses/Marcado",
-    "ORGANIZANDO/002 - Criação de Personagem/002 - Subclasses/Coringa",
-    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO",
-    "ORGANIZANDO/008 - Recicla/cão abominável.png",
-    "ORGANIZANDO/008 - Recicla/Coisas que reciclarei do Pathfinder 2e b00b6257095a4247aca796114710f34e.pdf",
-    "ORGANIZANDO/008 - Recicla/Auxiliar.png",
-    "ORGANIZANDO/008 - Recicla/Ataqye de ioirtybudade.png",
-    "ORGANIZANDO/002 - Criação de Personagem/004 - Origem",
+    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled 2.md",
+    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled 1.md",
+    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
+    "X Gaveta/002 - Criação de Personagem/001 - diretrizes.md",
+    "@Sessões/Sessão 1 - Posto Avançado da Irmandade",
+    "@Sessões",
+    "Lore",
+    "!Útil/03 - Marcado.md",
+    "Vou usar/Untitled.md",
+    "!Útil/06 - Coringa.md",
+    "!Útil/05 - Místico.md",
+    "!Útil/04 - Feroz.md",
+    "Lore/003 - Mundão/Personagens Importantes.md",
+    "Lore/003 - Mundão/Os 5 Abençoados.md",
+    "Lore/003 - Mundão/Holdeth.md",
+    "Lore/003 - Mundão/Pesares e Makabach.md",
+    "Lore/003 - Mundão/Terras Distantes.md",
+    "Lore/003 - Mundão/Fontes e Marcas.md",
+    "Importante/003 - Mundão/Kadan (Continente).md",
+    "Lore/003 - Mundão/Ezeus cidade.md",
+    "!Útil/OQ PRECISA NA FICHA.md",
+    "Lore/003 - Mundão/A Profecia dos 5.md",
+    "X Gaveta/008 - Recicla/Scoria.md",
+    "X Gaveta/008 - Recicla/prologo.md",
+    "X Gaveta/008 - Recicla/Pochar Mecanica.md",
+    "X Gaveta/008 - Recicla/One Shot - Enkya.md",
+    "X Gaveta/008 - Recicla/Mairu.md",
+    "X Gaveta/008 - Recicla/Kadan.md",
+    "!Útil/Habilidades/Nível 1/Revide Selvagem.md",
+    "!Útil",
+    "X Gaveta/002 - Criação de Personagem/001 - Classes/DEPOIS",
+    "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/Untitled",
+    "X Gaveta/Árvore de Habilidades.canvas",
+    "!Útil/Habilidades/Backlog",
+    "!Útil/Habilidades/Nível 1",
+    "!Útil/Habilidades/Truques",
+    "X Gaveta/002 - Criação de Personagem/004 - Origem/PRONTO",
+    "X Gaveta/008 - Recicla/cão abominável.png",
+    "X Gaveta/008 - Recicla/Auxiliar.png",
+    "X Gaveta/008 - Recicla/Ataqye de ioirtybudade.png",
     "008 - Recicla/Ataqye de ioirtybudade.png",
     "008 - Recicla/cão abominável.png",
     "008 - Recicla/Auxiliar.png",
