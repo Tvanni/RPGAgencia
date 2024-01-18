@@ -8,11 +8,24 @@ Perícias com Proficiência: 2 dentre [Detecção de Poder, Furtividade, Histór
 
 Nível 1: 
 
-**Alimentar o Crisol:** Como uma [Ação], você pode perder uma quantia de [Pontos de Vida] para ganhar o mesmo número de [Faíscas]. Esse recurso pode ser usado 2 vezes e é recuperado ao [Descansar].
+**Alimentar o Crisol:** Como uma [Ação], você pode perder uma quantia de [Pontos de Vida] para ganhar o mesmo número de [Faíscas]. 
 
 **Presença Tangível:** Seus testes de [Detecção de Poder] tem [Vantagem].
 
-**Eterna Chaga:** Você possui uma [Marca]. Escolha uma [Fonte de Poder] que inclua sua Marca: Você agora tem acesso às suas [Habilidades].
+**Eterna Chaga:** Você possui uma [Marca], e tem acesso às suas [Habilidades].
+
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 Nível 2:
 

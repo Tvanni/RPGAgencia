@@ -1,0 +1,2 @@
+- Os 4 personagens começam algemados dentro de uma cela. Personagem de Gabriel está preso à parede por correntes.
+- > "(Personagem de Tuco), você finalmente acorda. Você se encontra dentro de uma cela mal iluminada, algemado. "

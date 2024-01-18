@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
+                "file": "!Útil/03 - Marcado.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasta de Templates/!Template Habilidade.md",
+                "file": "!Útil/OQ PRECISA NA FICHA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
+                "file": "!Útil/OQ PRECISA NA FICHA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
+                "file": "!Útil/OQ PRECISA NA FICHA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md"
+                "file": "!Útil/OQ PRECISA NA FICHA.md"
               }
             }
           }
@@ -206,48 +207,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbb16df84a64fb30",
+  "active": "fedf2f6f6b1e55e5",
   "lastOpenFiles": [
-    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled 2.md",
-    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled 1.md",
-    "@Sessões/Sessão 1 - Posto Avançado da Irmandade/Untitled.md",
-    "X Gaveta/002 - Criação de Personagem/001 - diretrizes.md",
-    "@Sessões/Sessão 1 - Posto Avançado da Irmandade",
-    "@Sessões",
-    "Lore",
-    "!Útil/03 - Marcado.md",
-    "Vou usar/Untitled.md",
     "!Útil/06 - Coringa.md",
     "!Útil/05 - Místico.md",
     "!Útil/04 - Feroz.md",
-    "Lore/003 - Mundão/Personagens Importantes.md",
-    "Lore/003 - Mundão/Os 5 Abençoados.md",
-    "Lore/003 - Mundão/Holdeth.md",
-    "Lore/003 - Mundão/Pesares e Makabach.md",
-    "Lore/003 - Mundão/Terras Distantes.md",
-    "Lore/003 - Mundão/Fontes e Marcas.md",
-    "Importante/003 - Mundão/Kadan (Continente).md",
-    "Lore/003 - Mundão/Ezeus cidade.md",
+    "!Útil/03 - Marcado.md",
+    "Confidencial/Untitled.md",
+    "!!!!Confidencial!!!!",
+    "!!!!Confidencial!!!!/@Sessões/Sessão 1 - Posto Avançado da Irmandade/!Introdução - Caminho Principal.md",
+    "!!!!Confidencial!!!!/@Sessões/Sessão 1 - Posto Avançado da Irmandade/Arredores.md",
+    "Pasta de Templates/!Template Habilidade.md",
+    "!!!!Confidencial!!!!/@Sessões/Sessão 1 - Posto Avançado da Irmandade/Inimigos.md",
+    "!!!!Confidencial!!!!/@Sessões/Sessão 1 - Posto Avançado da Irmandade/Posto Avançado.md",
     "!Útil/OQ PRECISA NA FICHA.md",
-    "Lore/003 - Mundão/A Profecia dos 5.md",
-    "X Gaveta/008 - Recicla/Scoria.md",
-    "X Gaveta/008 - Recicla/prologo.md",
-    "X Gaveta/008 - Recicla/Pochar Mecanica.md",
-    "X Gaveta/008 - Recicla/One Shot - Enkya.md",
-    "X Gaveta/008 - Recicla/Mairu.md",
-    "X Gaveta/008 - Recicla/Kadan.md",
-    "!Útil/Habilidades/Nível 1/Revide Selvagem.md",
+    "!!!!Confidencial!!!!/X Gaveta/002 - Criação de Personagem/001 - diretrizes.md",
+    "!!!!Confidencial!!!!/@Sessões/Sessão 1 - Posto Avançado da Irmandade",
+    "!!!!Confidencial!!!!/@Sessões",
+    "!!!!Confidencial!!!!/Lore",
+    "Vou usar/Untitled.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Personagens Importantes.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Os 5 Abençoados.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Holdeth.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Pesares e Makabach.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Terras Distantes.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Fontes e Marcas.md",
+    "Importante/003 - Mundão/Kadan (Continente).md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/Ezeus cidade.md",
+    "!!!!Confidencial!!!!/Lore/003 - Mundão/A Profecia dos 5.md",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/Scoria.md",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/prologo.md",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/Pochar Mecanica.md",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/One Shot - Enkya.md",
     "!Útil",
-    "X Gaveta/002 - Criação de Personagem/001 - Classes/DEPOIS",
+    "!!!!Confidencial!!!!/X Gaveta/002 - Criação de Personagem/001 - Classes/DEPOIS",
     "ORGANIZANDO/002 - Criação de Personagem/001 - Classes/PRONTO/Untitled",
-    "X Gaveta/Árvore de Habilidades.canvas",
+    "!!!!Confidencial!!!!/X Gaveta/Árvore de Habilidades.canvas",
     "!Útil/Habilidades/Backlog",
     "!Útil/Habilidades/Nível 1",
     "!Útil/Habilidades/Truques",
-    "X Gaveta/002 - Criação de Personagem/004 - Origem/PRONTO",
-    "X Gaveta/008 - Recicla/cão abominável.png",
-    "X Gaveta/008 - Recicla/Auxiliar.png",
-    "X Gaveta/008 - Recicla/Ataqye de ioirtybudade.png",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/cão abominável.png",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/Auxiliar.png",
+    "!!!!Confidencial!!!!/X Gaveta/008 - Recicla/Ataqye de ioirtybudade.png",
     "008 - Recicla/Ataqye de ioirtybudade.png",
     "008 - Recicla/cão abominável.png",
     "008 - Recicla/Auxiliar.png",

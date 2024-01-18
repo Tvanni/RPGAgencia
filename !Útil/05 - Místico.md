@@ -8,9 +8,13 @@ Perícias com Proficiência: 2 dentre [Acrobacia, Detecção de Poder, História
 
 Nível 1:
 
-**Armamento Místico:** Uma [Arma ou Item não Consumível] seu é infundido com o poder de uma [Fonte de Poder] de sua escolha, e será utilizado para executar suas [Habilidades] que provém dela. Você tem acesso à [Árvore de Habilidades] da [Fonte de Poder] escolhida. Seu Armamento Místico pode ser redefinido ao [Repousar].
+**Armamento Místico:** Uma [Arma ou Item não Consumível] seu é infundido com o poder de uma [Marca] de sua escolha, te dando acesso à suas [Habilidades]. Seu Armamento Místico pode ser redefinido ao [Repousar].
 
-**Combo:** Usar uma [Habilidade] diferente das últimas Habilidade usadas no combate garante um bônus de [+1 para acertar para todas as próximas Habilidades]. Esse recurso pode ser aplicado mais de uma vez, e caso ele não seja ativado em um turno, todo o bônus é perdido.
+**Vínculo Espiritual:** Você pode usar [Habilidades] com seu [Armamento Mágico] mesmo sem estar fazendo contato com ele. Habilidades usadas dessa maneira tem como seu ponto de origem o Armamento Mágico.
+
+
+-------------------------------------------------------------------------------
+
 
 
 
@@ -19,6 +23,8 @@ Nível 1:
 
 
 Nível 2:
+
+**Combo:** Usar uma [Habilidade] diferente das últimas Habilidades usadas no combate garante um bônus de [+1 para acertar para todas as próximas Habilidades]. Esse recurso pode ser aplicado mais de uma vez, e caso ele não seja ativado em um turno, todo o bônus é perdido.
 
 **Momento de Êxito 1:** Você pode usar sua [Ação Livre] como uma das [Ações] para executar uma [Habilidade]. Você pode usar esse recurso 1 vez por combate.
 

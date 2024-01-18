@@ -14,7 +14,18 @@ Nível 1:
 - Quando o Dado de Gank é rolado, ele é perdido, e uma criatura só pode ter 1 Dado de Gank simultaneamente.
 - Esse recurso pode ser usado um número de vezes igual a seu [bônus de AST]. (Mínimo 1)
 
-**Sua Vez:** Você ganha a [Ação] "Roque". (**Roque (1):** Você pode trocar a posição do seu turno na [Iniciativa] com a de uma outra criatura, que então imediatamente começa seu turno.)
+**Sua Vez:** Você ganha a [Ação] "Roque". (**Roque (1):** Você pode trocar a sua posição na [Iniciativa] com a de uma outra criatura, que então imediatamente começa seu turno.)
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 

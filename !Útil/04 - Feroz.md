@@ -30,6 +30,17 @@ Fúria Bestial dura até o fim do combate, ou até você usar uma [Ação] para 
 **Defesa sem Armadura:** Enquanto você não possui uma [Armadura] equipada, sua [Classe de Armadura] é igual a [10 + seu bônus de DEX + seu bônus de RES]
 
 
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
